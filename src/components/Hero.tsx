@@ -35,7 +35,7 @@ const Hero = () => {
             <div className="flex items-center justify-center mb-6">
               <div className="relative group">
                 <img 
-                  src="/logo.png" 
+                  src="/pages/logo.png" 
                   alt="VISONIXRO" 
                   className="h-24 w-auto sm:h-32 filter drop-shadow-2xl animate-float group-hover:scale-110 transition-transform duration-500" 
                 />
